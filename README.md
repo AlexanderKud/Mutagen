@@ -49,7 +49,7 @@ make
 
 ## 👏 **Credits**
 
-- _**Idea**: Denevron_ 💡 [![Donate](https://img.shields.io/badge/donate-Bitcoin-ff9900)](https://blockchair.com/bitcoin/address/bc1qa3c5xdc6a3n2l3w0sq3vysustczpmlvhdwr8vc)
+- _**Idea**: Roha 💡 [![Donate](https://img.shields.io/badge/donate-Bitcoin-ff9900)](https://blockchair.com/bitcoin/address/bc1qa3c5xdc6a3n2l3w0sq3vysustczpmlvhdwr8vc)
 - _Thanks for the help, **NoMachine1**!_ 🔧 [![Donate](https://img.shields.io/badge/donate-Bitcoin-ff9900)](https://blockchair.com/bitcoin/address/bc1qdwnxr7s08xwelpjy3cc52rrxg63xsmagv50fa8)
 
 ✨ **Happy solving!**  
